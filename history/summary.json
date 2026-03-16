@@ -22,17 +22,17 @@
     "url": "https://vip.jeancloude.club",
     "icon": "https://icons.duckduckgo.com/ip3/vip.jeancloude.club.ico",
     "slug": "vip",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1412,
-    "timeDay": 944,
-    "timeWeek": 1149,
-    "timeMonth": 1134,
-    "timeYear": 1422,
+    "time": 1420,
+    "timeDay": 2862,
+    "timeWeek": 1603,
+    "timeMonth": 1252,
+    "timeYear": 1431,
     "dailyMinutesDown": {}
   }
 ]
