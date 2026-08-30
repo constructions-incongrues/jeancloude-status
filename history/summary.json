@@ -12,9 +12,9 @@
     "uptimeYear": "100.00%",
     "time": 609,
     "timeDay": 506,
-    "timeWeek": 581,
+    "timeWeek": 601,
     "timeMonth": 589,
-    "timeYear": 608,
+    "timeYear": 607,
     "dailyMinutesDown": {}
   },
   {
@@ -22,16 +22,16 @@
     "url": "https://vip.jeancloude.club",
     "icon": "https://icons.duckduckgo.com/ip3/vip.jeancloude.club.ico",
     "slug": "vip",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1441,
-    "timeDay": 1294,
-    "timeWeek": 1268,
-    "timeMonth": 1460,
+    "time": 1444,
+    "timeDay": 1758,
+    "timeWeek": 1427,
+    "timeMonth": 1484,
     "timeYear": 1422,
     "dailyMinutesDown": {}
   }
